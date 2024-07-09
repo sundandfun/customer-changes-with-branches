@@ -1,0 +1,25 @@
+Customers can overwrite specific functions in customers branch
+
+function main()
+{
+    return true;
+}
+
+// Return sum
+function overwrite1 (a,b)
+{
+    return a + b;
+}
+
+// Return dif
+function overwrite2 (a,b)
+{
+    return a - b;
+}
+
+// return parameter
+function noOverwrite (a)
+{
+    return a;
+}
+
