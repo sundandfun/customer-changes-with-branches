@@ -1,14 +1,7 @@
 This file is in the main branch
 Change1 in main
-<<<<<<< HEAD
 Change2 in main
 Change3 in main
 Change4 in main
 Change5 in main
 Change6 in main
-<<<<<<< HEAD
-=======
-=======
-Change2 in main
->>>>>>> b16ab96 (main file changed)
->>>>>>> 5c43be0 (main file changed)
