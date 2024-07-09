@@ -5,10 +5,11 @@ function main()
     return true;
 }
 
-// Return sum
+// Return parameter
+// changed only for customer1
 function overwrite1 (a,b)
 {
-    return a + b;
+    return a;
 }
 
 // Return dif
